@@ -1,3 +1,12 @@
 {
-  "platforms": ["airbnb", "vrbo", "booking", "agoda", "hopper", "furnishedfinder", "homads", "corporatehousing", "spacest"]
+  "platforms": [
+    "airbnb",
+    "vrbo",
+    "booking",
+    "agoda",
+    "hopper",
+    "homads",
+    "corporatehousing",
+    "spacest"
+  ]
 }
