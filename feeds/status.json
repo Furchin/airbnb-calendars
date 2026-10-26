@@ -2,6 +2,7 @@
  "last_success": "2026-10-26",
  "sources": [
   "airbnb",
+  "booking",
   "vrbo"
  ]
 }
