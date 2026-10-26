@@ -3,6 +3,7 @@
  "sources": [
   "airbnb",
   "booking",
+  "hopper",
   "vrbo"
  ]
 }
